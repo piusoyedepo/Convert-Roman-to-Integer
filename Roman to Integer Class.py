@@ -20,3 +20,4 @@ class RomanNumeral():
                 integer_value += roman_dict[r[i]]
         return integer_value
 
+##print the integer_value
